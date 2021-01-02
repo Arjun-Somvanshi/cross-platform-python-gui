@@ -80,4 +80,4 @@ class MyApp(App):
         return Builder.load_string(kv)
 
 if __name__ == '__main__':
-    MyApp().run()
+    MyApp().run() 
